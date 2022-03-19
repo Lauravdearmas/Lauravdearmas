@@ -1,6 +1,6 @@
 Hola, soy Laura 😄
 
-<p align="left">Soy diseñadora y desarrolladora web ⚡<br /> Si estas comenzando en programación puedes encontrar repositorios con ideas para landing page, nav bars, entre otros. <br /> ¡Revisa mi contenido como host de Venga Lo ilustro 👇!</p>
+<p align="left">Soy diseñadora y desarrolladora web ⚡<br /> Si estas comenzando en programación puedes encontrar repositorios con ideas para landing page, nav bars, entre otros. <br /> ¡Revisa mi contenido como host de Venga Lo Ilustro 👇!</p>
 <p align="left">
    <a href="https://youtube.com/lauravdearmas" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
